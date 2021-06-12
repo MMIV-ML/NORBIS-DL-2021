@@ -19,28 +19,33 @@ In Part 2 we'll change gears and fly through some more involved examples. The go
 
 ## Notebooks
 
+_You can browse through the notebooks non-interactively using jupyter.org's nbviewer by clicking [here](https://nbviewer.jupyter.org/github/MMIV-ML/NORBIS-DL-2021/tree/master/)._
+
 ### Part 1: What is deep learning?
-* `DL-Example-1-image_classification-MedNIST-using-PyTorch.ipynb`. This notebook will provide a translation of the lecture's description of deep learning into PyTorch code, using a simple image classification example (the MedMIST data set collected by Dr. Bradley J. Erickson). <br><a href="https://colab.research.google.com/github/MMIV-ML/NORBIS-DL-2021/blob/master/DL-Example-1-image_classification-MedNIST-using-PyTorch.ipynb">
+* `DL-Example-1-image_classification-MedNIST-using-PyTorch.ipynb`. This notebook will provide a translation of the lecture's description of deep learning into PyTorch code, using a simple image classification example (the MedMIST data set collected by Dr. Bradley J. Erickson). 
+<br><br>
+[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/MMIV-ML/NORBIS-DL-2021/blob/master/DL-Example-1-image_classification-MedNIST-using-PyTorch.ipynb?runtime=paperspace/fastai)
+<br><a href="https://colab.research.google.com/github/MMIV-ML/NORBIS-DL-2021/blob/master/DL-Example-1-image_classification-MedNIST-using-PyTorch.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-* `DL-Example-2-image_classification-MedNIST-MURA-using-fastai.ipynb`. This notebook repeats the above story by using more advanced image classification techniques, and also extends it to a much more difficult data set. Working through this notebook will give you a useful reference point for your further exploration of deep learning, and provide a bridge to the more advanced examples of Part 2.<br><a href="https://colab.research.google.com/github/MMIV-ML/NORBIS-DL-2021/blob/master/DL-Example-2-image_classification-MedNIST-MURA-using-fastai.ipynb">
+* `DL-Example-2-image_classification-MedNIST-MURA-using-fastai.ipynb`. This notebook repeats the above story by using more advanced image classification techniques, and also extends it to a much more difficult data set. Working through this notebook will give you a useful reference point for your further exploration of deep learning, and provide a bridge to the more advanced examples of Part 2.
+<br><br>
+[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/MMIV-ML/NORBIS-DL-2021/blob/master/DL-Example-2-image_classification-MedNIST-MURA-using-fastai.ipynb?runtime=paperspace/fastai)
+<br><a href="https://colab.research.google.com/github/MMIV-ML/NORBIS-DL-2021/blob/master/DL-Example-2-image_classification-MedNIST-MURA-using-fastai.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 ### Part 2: A tour of practical deep learning
-* `DL-Example-3-representing_data_as_images.ipynb`. 
-* `DL-Example-4-CNNs-as-feature_extractors.ipynb`. 
-* `DL-Example-5-image_classification-tumor-grading.ipynb`. 
-* `DL-Example-6-segmentation-cell-segmentation-PyTorch-fastai.ipynb`. 
-* `DL-Example-7-segmentation-brain-tumor-using-MONAI.ipynb`.
-* _More TBA_
+<br>
 
-### Browse notebooks online
-You can browse through the notebooks non-interactively using jupyter.org's nbviewer by clicking [here](https://nbviewer.jupyter.org/github/MMIV-ML/NORBIS-DL-2021/tree/master/).
+[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/MMIV-ML/NORBIS-DL-2021/blob/master/notebooks.ipynb?runtime=paperspace/fastai)
+
+
+* _TBA_
 
 
 
-## Slides
+## Slides from the accompanying lecture
 
 _TBA_
