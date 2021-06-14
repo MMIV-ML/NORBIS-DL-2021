@@ -22,4 +22,5 @@ The notebooks of Part 1 accompany the introductory lecture. They are meant as an
 
 If you feel like exploring the basics further, here are a couple of good (and quick) tutorials:
 
-* The fastai repository [fastbook]() contains a complete textbook introduction to deep learning. You may also want to have a look at the short tutorials in the [fastai documentation](). 
+* The fastai repository [fastbook](https://github.com/fastai/fastbook) contains a complete textbook introduction to deep learning. You may also want to have a look at the short tutorials in the [fastai documentation](https://docs.fast.ai/). 
+* ***More TBA***
