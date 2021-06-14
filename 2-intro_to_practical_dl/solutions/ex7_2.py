@@ -24,7 +24,7 @@ class NucleiData(Dataset):
             augmented = self.transforms(image=img, mask=mask) 
             img = augmented['image']
             mask = augmented['mask']
-            mask = mask[0].permute(2, 0, 1)
+            mask = mask.permute(2, 0, 1)
             return (img,mask) 
 
         def get_mask(self,mask_folder,IMG_HEIGHT, IMG_WIDTH):
