@@ -8,6 +8,9 @@ Famous examples of Transformers include [BERT](https://arxiv.org/abs/1810.04805)
 
 [HuggingFace](https://huggingface.co/)  :hugs: is an open-source provider of large libraries of pre-trained transformers and datasets, and arguably the best starting point for all kinds of deep learning-based NLP. 
 
-If you want to get started, have a look at their [tutorial notebooks](https://github.com/huggingface/transformers/tree/master/notebooks) and their [documentation](https://huggingface.co/transformers/). 
+If you want to get started, have a look at their [tutorial notebooks](https://github.com/huggingface/transformers/tree/master/notebooks) and their [documentation](https://huggingface.co/transformers/).
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huggingface/transformers/blob/master/notebooks)
+
 
 The notebook `DL-transformers_huggingface.ipynb` shows an example of how you can download and fine-tune a biomedically oriented pre-trained transformer model, the PubMedBERT model for biomedical natural language processing. It can also be used as a template for how to run HuggingFace models on Gradient.
