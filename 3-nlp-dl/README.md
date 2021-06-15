@@ -10,4 +10,4 @@ Famous examples of Transformers include [BERT](https://arxiv.org/abs/1810.04805)
 
 If you want to get started, have a look at their [tutorial notebooks](https://github.com/huggingface/transformers/tree/master/notebooks) and their [documentation](https://huggingface.co/transformers/). 
 
-The notebook ***TBA*** shows an example of how you can download and fine-tune a biomedically oriented pre-trained transformer model, the PubMedBERT model for biomedical natural language processing. It can also be used as a template for how to run HuggingFace models on Gradient.
+The notebook `DL-transformers_huggingface.ipynb` shows an example of how you can download and fine-tune a biomedically oriented pre-trained transformer model, the PubMedBERT model for biomedical natural language processing. It can also be used as a template for how to run HuggingFace models on Gradient.
