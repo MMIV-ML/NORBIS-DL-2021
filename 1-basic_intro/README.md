@@ -20,7 +20,6 @@ The notebooks of Part 1 accompany the introductory lecture. They are meant as an
 
 ### More 
 
-If you feel like exploring the basics further, here are a couple of good (and quick) tutorials:
+If you feel like exploring the basics further, the accompanying lecture points at some resources. The most important recommendation is to _experiment_. _A lot!_ 
 
-* The fastai repository [fastbook](https://github.com/fastai/fastbook) contains a complete textbook introduction to deep learning. You may also want to have a look at the short tutorials in the [fastai documentation](https://docs.fast.ai/). 
-* ***More TBA***
+"Learning by doing" is a particularly good approach in such an experimental field as deep learning. 
