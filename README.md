@@ -24,7 +24,9 @@ We'll go through parts of the notebooks in [2-intro_to_practical_dl](./2-intro_t
 
 ## Slides from the accompanying lecture
 
-_Link TBA_
+Slides from the [introduction to deep learning](https://hvl365-my.sharepoint.com/:p:/g/personal/allu_hvl_no/EabJy8KlVqREvyeqQ9G_zb8BeN3hdUTQ2HXm9Mlb4A3wrg?e=NHTdh7).
+
+Slides from [the wrap-up](https://hvl365-my.sharepoint.com/:p:/g/personal/allu_hvl_no/ET_MatV-JgdKtD-duKO-2aoBIjyfdrJyOQsSnOK_Ner4BA?e=o8hcGP) after the hands-on-session.
 
 
 
